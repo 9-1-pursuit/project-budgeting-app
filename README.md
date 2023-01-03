@@ -8,6 +8,7 @@ Create a backend API using Express that performs full CRUD on a single model, `t
 
 ## Overview
 
+- Follow the instructions to meet the criteria for this project. Use Images in these instructions as a reference only. 
 - Use Express to build a back-end.
 - Use `create-react-app` to build a front-end.
 - Connect the back-end and the front-end.
