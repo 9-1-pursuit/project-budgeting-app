@@ -1,0 +1,51 @@
+module.exports = [
+    {
+      item_name: "Rent",
+      amount: 950,
+      date: "January 1",
+      from: "bank",
+      category: "housing",
+    },
+    {
+      item_name: "Car Note",
+      amount: 250,
+      date: "January 17",
+      from: "bank",
+      category: "auto",
+    },
+    {
+        item_name: "Spectrum",
+        amount: 95,
+        date: "January 8",
+        from: "internet",
+        category: "internet",
+    },
+    {
+        item_name: "Income",
+        amount: 1400,
+        date: "January 2",
+        from: "employer",
+        category: "income",
+    },
+    {
+        item_name: "SuperFoodtown",
+        amount: 200,
+        date: "January 16",
+        from: "supermarket",
+        category: "food",
+    },
+    {
+        item_name: "Nails",
+        amount: 60,
+        date: "January 23",
+        from: "Nail Salon",
+        category: "beauty",
+    },
+    {
+        item_name: "Hair",
+        amount: 150,
+        date: "January 23",
+        from: "Hair Salon",
+        category: "beauty",
+    },
+  ];
