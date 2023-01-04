@@ -160,19 +160,11 @@ For the front-end to be complete, the following must be true:
      - `category` - a string. As a bonus, this can be an options menu. 
   
 
-## Deployment
-
-- [Netlify Deployment for create-react-app](./netlify-cra.md)
-
-- [Netlify Set Up Continuous Deployment](https://github.com/joinpursuit/Netlify-CRA-Cont-Deploy-Guide)
-
-- [Deploy Express App](https://github.com/joinpursuit/step-by-step-guides)
-
 ## Bonus Ideas:
 
 - Change favicon from default react app.
 - Add some logic/functionality that will make income a positive number and an expenditure a negative number, rather than having the user type it in.
-- Use [react-bootstrap](https://react-bootstrap.github.io) or similar, to help style your app.
+- Use [react-bootstrap](https://react-bootstrap.github.io) or a similar CSS framework to help style your app.
 - Show the amount in the nav bar, so it is visible on every view.
 - Use the date object for the date, instead of just a string.
 - Use the input type `date` for the date.
