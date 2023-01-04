@@ -1,6 +1,6 @@
 // DEPENDENCIES
 const express = require("express");
-let transactionsArray = require("./controllers/transactionController");
+let transactionsArray = require("./controllers/transactionsController");
 var cors = require('cors')
 
 // CONFIGURATION
@@ -13,7 +13,7 @@ app.use("/transactions", transactionsArray);
 
 // ROUTES
 app.get("/", (req, res) => {
-    res.send("welcome to the captain's transaction");
+    res.send("welcome to my Budget app");
   });
 
   app.get("/transactions", )

@@ -1,6 +1,6 @@
 const express = require("express");
 const transactions = express.Router();
-const transactionsArray = require("../models/transaction");
+const transactionsArray = require("../models/transactions");
 const { validateURL } = require("../models/validations.js");
 
 transactions.get("/", (req, res) => {
