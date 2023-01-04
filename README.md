@@ -91,7 +91,7 @@ You must successfully build a minimum of 6 out of 9 features to pass this projec
 For the back-end to be complete, the following must be true:
 
 - The application uses `express`, `dotenv`, `cors`.
-- The application is [deployed](https://github.com/joinpursuit/step-by-step-guides) and can be accessed from your React front-end app and Postman.
+- The application is deployed and can be accessed from your React front-end app and Postman.
 - The application has the following routes and work as described below.
 - The application handles common errors and has any necessary validations
 
