@@ -1,0 +1,51 @@
+module.exports = [
+    {
+      item_name: "Rent",
+      amount: -950,
+      date: "01-01-2023",
+      from: "bank",
+      category: "housing",
+    },
+    {
+      item_name: "Car Note",
+      amount: -250,
+      date: "01-17-2023",
+      from: "bank",
+      category: "auto",
+    },
+    {
+        item_name: "Spectrum",
+        amount: -95,
+        date: "01-08-2023",
+        from: "internet",
+        category: "internet",
+    },
+    {
+        item_name: "Income",
+        amount: 3400,
+        date: "01-02-2023",
+        from: "employer",
+        category: "income",
+    },
+    {
+        item_name: "SuperFoodtown",
+        amount: -200,
+        date: "01-16-2023",
+        from: "supermarket",
+        category: "food",
+    },
+    {
+        item_name: "Nails",
+        amount: -60,
+        date: "01-23-2023",
+        from: "Nail Salon",
+        category: "beauty",
+    },
+    {
+        item_name: "Hair",
+        amount: -150,
+        date: "01-23-2023",
+        from: "Hair Salon",
+        category: "beauty",
+    },
+  ];
