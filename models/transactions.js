@@ -37,14 +37,14 @@ module.exports = [
     {
         item_name: "Nails",
         amount: -60,
-        date: "23-01-2023",
+        date: "01-23-2023",
         from: "Nail Salon",
         category: "beauty",
     },
     {
         item_name: "Hair",
         amount: -150,
-        date: "23-01-2023",
+        date: "01-23-2023",
         from: "Hair Salon",
         category: "beauty",
     },
